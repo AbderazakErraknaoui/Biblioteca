@@ -79,12 +79,12 @@ namespace EsercizioBiblioteca
             }
         }
 
-        public void AggiuntaLibro(Libro b)
+        public void AggiuntaLibro(Libro b) //Aggiungo il libro
         {
             _libri.Add(b);
         }
 
-        public List<Libro> GetLista()
+        public List<Libro> GetLista() //Ritorno la Lista
         {
             return _libri;
         }
