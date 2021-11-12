@@ -23,6 +23,7 @@ namespace EsercizioBiblioteca
         public MainWindow()
         {
             InitializeComponent();
+            //Ciao
         }
     }
 }
